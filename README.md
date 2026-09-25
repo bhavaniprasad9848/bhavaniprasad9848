@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-* 💻 Software Developer at **VJ Creative Solutions **, supporting **Visa** as a client.
+* 💻 Software Developer at VJ Creative Solutions , supporting **Visa** as a client.
 * 🚀 Building scalable APIs and full-stack applications with **Java, Spring Boot, React, and TypeScript**.
 * 🤖 Experienced in **RAG pipelines, multi-agent workflows, LLM evaluation, and AI guardrails**.
 * ☁️ Working with **AWS, Docker, Kubernetes, and CI/CD** to deliver reliable cloud applications.
