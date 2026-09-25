@@ -62,9 +62,9 @@ Full-stack bookstore with authentication, inventory management, shopping cart, s
 
 👯 Open to collaborating on **full-stack applications, backend systems, and AI projects**.
 
-📬 **Email:** [bhavaniprasadcvemula@gmail.com](mailto:bhavaniprasadcvemula@gmail.com)
+📬 **Email:** [bhavaniprasadcvemula@gmail.com](mailto:bhavaniprasad9848@gmail.com)
 
 💼 **LinkedIn:** [www.linkedin.com/in/bhavanivemula](https://www.linkedin.com/in/bhavanivemula)
 
-💻 **GitHub:** [github.com/bhavaniprasad9848](https://github.com/bhavaniprasad9848)
+
 # bhavaniprasad9848.
